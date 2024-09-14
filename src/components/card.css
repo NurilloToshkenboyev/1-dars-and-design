@@ -1,0 +1,10 @@
+.productCard{
+    width: 320px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0 10px 0 gray;
+    border-radius: 15px;
+}
